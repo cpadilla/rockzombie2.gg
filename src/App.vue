@@ -14,6 +14,9 @@ import HelloWorld from './components/HelloWorld.vue'
       <a href="https://youtube.com/rockzombie2" target="_blank">
         <img src="./assets/youtube.svg" class="logo youtube" alt="YouTube logo" />
       </a>
+      <a href="https://discord.com/users/188799069668245514" target="_blank">
+        <img src="./assets/discord.svg" class="logo discord" alt="Discord logo" />
+      </a>
       <a href="https://twitch.tv/rockzombie2" target="_blank">
         <img src="./assets/twitch.svg" class="logo twitch" alt="Twitch logo" />
       </a>
@@ -23,6 +26,9 @@ import HelloWorld from './components/HelloWorld.vue'
     <div>
       <a href="https://bsky.app/rockzombie2.gg" target="_blank">
         <img src="./assets/bluesky.svg" class="logo bluesky" alt="Bluesky logo" />
+      </a>
+      <a href="https://christofer.rocks" target="_blank">
+        <img src="./assets/cube.gif" class="logo blog" alt="Blog logo" />
       </a>
       <a href="https://www.instagram.com/rockzombie2" target="_blank">
         <img src="./assets/instagram.svg" class="logo instagram" alt="Instagram logo" />
@@ -34,15 +40,11 @@ import HelloWorld from './components/HelloWorld.vue'
       <a href="https://www.tiktok.com/@rockzombie2" target="_blank">
         <img src="./assets/tiktok.svg" class="logo tiktok" alt="TikTok logo" />
       </a>
+      <a href="https://reddit.com/u/rockzombie2" target="_blank">
+        <img src="./assets/reddit.svg" class="logo reddit" alt="Reddit logo" />
+      </a>
       <a href="https://open.spotify.com/user/christoferpadilla" target="_blank">
         <img src="./assets/spotify.svg" class="logo spotify" alt="Spotify logo" />
-      </a>
-    </div>
-  </div>
-  <div>
-    <div>
-      <a href="https://christofer.rocks" target="_blank">
-        <img src="./assets/cube.gif" class="logo blog" alt="Blog logo" />
       </a>
     </div>
   </div>
@@ -68,6 +70,9 @@ img {
 .logo.youtube:hover {
   filter: drop-shadow(0 0 2em #FF0000aa);
 }
+.logo.discord:hover {
+  filter: drop-shadow(0 0 2em #5865F2aa);
+}
 .logo.twitch:hover {
   filter: drop-shadow(0 0 2em #9146FFaa);
 }
@@ -83,7 +88,10 @@ img {
 .logo.spotify:hover {
   filter: drop-shadow(0 0 2em #1ED760aa);
 }
+.logo.reddit:hover {
+  filter: drop-shadow(0 0 2em #FF5700aa);
+}
 .logo.blog:hover {
-  filter: drop-shadow(0 0 2em #000000aa);
+  filter: drop-shadow(0 0 2em #FFFFFFaa);
 }
 </style>
