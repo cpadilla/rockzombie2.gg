@@ -33,7 +33,7 @@ import HelloWorld from './components/HelloWorld.vue'
           <div class="container">
             <div class="icon-row">
                 <div class="icon">
-                  <a href="https://bsky.app/rockzombie2.gg" target="_blank">
+                  <a href="https://bsky.app/profile/rockzombie2.gg" target="_blank">
                     <img src="./assets/bluesky.svg" class="logo bluesky" alt="Bluesky logo" />
                   </a>
                 </div>
