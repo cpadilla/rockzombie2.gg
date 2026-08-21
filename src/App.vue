@@ -33,8 +33,8 @@ import HelloWorld from './components/HelloWorld.vue'
           <div class="container">
             <div class="icon-row">
                 <div class="icon">
-                  <a href="https://bsky.app/profile/rockzombie2.gg" target="_blank">
-                    <img src="./assets/bluesky.svg" class="logo bluesky" alt="Bluesky logo" />
+                  <a href="https://x.com/rockzombie2" target="_blank">
+                    <img src="./assets/x_logo.png" class="logo x" alt="X logo" />
                   </a>
                 </div>
                 <div class="icon">
@@ -167,8 +167,8 @@ a {
 .logo.twitch:hover {
   filter: drop-shadow(0 0 2em #9146FFaa);
 }
-.logo.bluesky:hover {
-  filter: drop-shadow(0 0 2em #1185feaa);
+.logo.x:hover {
+  filter: drop-shadow(0 0 2em #FFFFFFaa);
 }
 .logo.instagram:hover {
   filter: drop-shadow(0 0 2em #dc7e9dfe);
