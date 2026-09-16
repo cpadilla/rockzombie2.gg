@@ -43,7 +43,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   </a>
                 </div>
                 <div class="icon">
-                  <a href="https://www.instagram.com/rockzombie2" target="_blank">
+                  <a href="https://www.instagram.com/rockzombie2.gg" target="_blank">
                     <img src="./assets/instagram.svg" class="logo instagram" alt="Instagram logo" />
                   </a>
                 </div>
