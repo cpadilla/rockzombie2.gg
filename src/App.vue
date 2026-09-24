@@ -8,7 +8,8 @@ import HelloWorld from './components/HelloWorld.vue'
         <img class="portrait" src="./assets/rockzombie2.jpg" />
       </div>
       <div class="container">
-        <p class="username">rockzombie2</p>
+        <p class="username">rockzombie2 🏴‍☠️</p>
+        <p class="username">christofer@spacepirates.net</p>
       </div>
       <div class="image-container">
           <div class="container">
